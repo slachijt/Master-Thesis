@@ -1,6 +1,3 @@
-rm(list = ls())
-cat("\014")
-
 ################################################################################
 ## Conditional e-values on the GVT (Gilovich, Vallone, Tversky 1985) data --
 ## Every Z_delta(h,n_H) is computed by

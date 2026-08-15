@@ -18,7 +18,6 @@
 ## stated whenever the numbers are compared.
 ################################################################################
 
-rm(list = ls())
 set.seed(2026)
 
 logit     <- function(p) log(p / (1 - p))
